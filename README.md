@@ -160,7 +160,7 @@ urlpatterns = [
 ~~~
 
 ## OUTPUT:
-![git](./web 09.jpg)
+![git](rohi.jpg)
 
 
 ## Result:
